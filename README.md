@@ -40,21 +40,9 @@ says for me)</em></li>
 <li>Enable the DDNS CLient: Yes</li>
 <li>Server: WWW.TUNNELBROKER.NET</li>
 <li>Host Name: <em>tunnel ID from tunnelbroker.net tunnel details</em></li>
-<li>User Name or E-mail address: *username of tunnelbroker.net</li>
+<li>User Name or E-mail address: Your hex user ID (not your username), from the Main Page on TunnelBroker.</li>
 <li>Password or DDNS Key: <em>Update Key from tunnel details under the Advanced
 tab</em></li>
-</ul>
-<p>All guides I have seen say that username is user ID from index of
-tunnelbroker.net and password is account password, but that doesn’t work
-for me. This is how I got it working guessing the details based on
-<em>Example Update URL</em> at the same place you got the Update Key.</p>
-<p>Now it should either work or not.</p>
-<ul>
-<li>If it gives error saying something about trying again later, you are
-doing something wrong.</li>
-<li>If it gives error about endpoint IP not changed since the last update,
-it works.</li>
-<li>If you don’t get error, it doesn’t work.</li>
 </ul>
 </article>
 
