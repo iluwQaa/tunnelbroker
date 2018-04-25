@@ -40,7 +40,7 @@ says for me)</em></li>
 <li>Enable the DDNS CLient: Yes</li>
 <li>Server: WWW.TUNNELBROKER.NET</li>
 <li>Host Name: <em>tunnel ID from tunnelbroker.net tunnel details</em></li>
-<li>User Name or E-mail address: Your hex user ID (not your username), from the Main Page on TunnelBroker.</li>
+<li>User Name or E-mail address: <em>Your hex user ID (not your username), from the Main Page on TunnelBroker.</em></li>
 <li>Password or DDNS Key: <em>Update Key from tunnel details under the Advanced
 tab</em></li>
 </ul>
